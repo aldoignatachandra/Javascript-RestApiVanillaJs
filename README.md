@@ -131,7 +131,7 @@
 
 ## How To Install
 
-1. Git clone [Javascript-RestApiVanillaJs](https://github.com/aldoignatachandra/Javascript-LinkedList) or download zip.
+1. Git clone [Javascript-RestApiVanillaJs](https://github.com/aldoignatachandra/Javascript-RestApiVanillaJs) or download zip.
 2. Open in your code editor ( vscode, atom or other ).
 3. Install the dependencies by running ( `yarn install` )
 4. Execute the code using ( `yarn dev` )
