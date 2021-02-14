@@ -1,0 +1,16 @@
+{
+  "name": "Javascript-RestApiVanillaJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
